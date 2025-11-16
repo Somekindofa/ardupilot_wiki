@@ -789,7 +789,7 @@ Vacuum Formed Frames and Components.
 -  (Or you could just buy an Aquacopter frame!!!)
 
 
-Specific Building Examples and Techinques
+Specific Building Examples and Techniques
 =========================================
 
 -  Some design considerations for a medium large, high efficiency, heavy
